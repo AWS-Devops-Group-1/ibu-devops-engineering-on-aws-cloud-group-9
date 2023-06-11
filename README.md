@@ -17,4 +17,9 @@ Project structure consists of:
  - AWS Project Presentation - containing the presentation of the project
  - AWS Project Estimate - estimation of the cost of the services used in the project
  - AWS Project Schema - schema of the proposed solution
- - Scripts - scripts used in the project
+  - Scripts - scripts used in the project
+     - cloud9-scripts
+        - Script 1 - for secret creation in Secret Manager
+        - Script 2 - used for load testing
+        - Script 3 - used to migrate the data from the original database to the new Amazon RDS database.
+    - UserdataScript-phase-2 - used for installing web application and database to the VM
