@@ -2,7 +2,7 @@
 # DevOps Engineering on AWS Cloud Project
 
 This project was done at the International Burch University for the course IT 334 - DevOps Engineering on AWS cloud.
-Professor: Dženana Dževlan
+- Professor: Dženana Dževlan
 
 ## Team
 This project was done by group 9, consisting of:
