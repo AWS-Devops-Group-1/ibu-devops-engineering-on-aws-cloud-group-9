@@ -14,12 +14,13 @@ This project was done by group 9, consisting of:
 ## Structure
 
 Project structure consists of:
- - AWS Project Presentation - containing the presentation of the project
- - AWS Project Estimate - estimation of the cost of the services used in the project
- - AWS Project Schema - schema of the proposed solution
-  - Scripts - scripts used in the project
-     - cloud9-scripts
-        - Script 1 - for secret creation in Secret Manager
-        - Script 2 - used for load testing
-        - Script 3 - used to migrate the data from the original database to the new Amazon RDS database.
+ - docs - all documentation and files of the project
+     - AWS Project Presentation - containing the presentation of the project
+     - AWS Project Estimate - estimation of the cost of the services used in the project
+     - AWS Project Schema - schema of the proposed solution
+ - helper-scripts - scripts used in the project
+    - Script 1 - for secret creation in Secret Manager
+    - Script 2 - used for load testing
+    - Script 3 - used to migrate the data from the original database to the new Amazon RDS database
     - UserdataScript-phase-2 - used for installing web application and database to the VM
+ - application-code - code of the web application
