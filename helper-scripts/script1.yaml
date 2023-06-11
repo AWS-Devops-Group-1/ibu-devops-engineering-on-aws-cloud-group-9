@@ -1,0 +1,4 @@
+aws secretsmanager create-secret \
+    --name Mydbsecret \
+    --description "Database secret for web app" \
+    --secret-string "{\"user\":\"<username>\",\"password\":\"<password>\",\"host\":\"<RDS Endpoint>\",\"db\":\"<dbname>\"}"
